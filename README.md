@@ -1,11 +1,7 @@
-# Homebrew Tap for Thrift@0.9
+# Homebrew Tap for Thrift@0.9.3
 
-## How do I install these formulae?
+1. `brew tap silibili/thrift https://github.com/silibili/homebrew-thrift`
+2. `brew install silibili/thrift/thrift@0.9`
+3. `echo 'export PATH="/opt/homebrew/opt/thrift@0.9/bin:$PATH"' >> ~/.zshrc`
 
-`brew install haoqixu/thrift/<formula>`
 
-Or `brew tap haoqixu/thrift` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
